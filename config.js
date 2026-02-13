@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I'm so blessed to share this day with you",
-        message: "I hope you like your gift tomorrow sweetie",
-        emojis: "🫶🩷"  // These will bounce around
+        title: "I hope you like your gift tomorrow lovie",
+        message: "I'm so blessed to share this day with you<3",
+        emojis: "mahal kita🫶🩷"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -67,9 +67,9 @@ const CONFIG = {
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "30s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDuration: "70s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.2s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        bounceSpeed: "0.02s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.2         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
